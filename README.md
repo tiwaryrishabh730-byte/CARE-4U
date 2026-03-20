@@ -15,6 +15,7 @@ Vital Statistics Tracking: Dashboard for monitoring heart rate, sleep cycles, an
 Medication Management: A streamlined interface for scheduling and logging medical adherence.
 
 Gamified Wellness: Visual feedback systems that encourage healthy habits through an interactive "Plant Vitality" UI.
+
 Lessons Learned
 
 Rapid Prototyping: Successfully built a functional Minimum Viable Product (MVP) within a 24-hour hackathon environment.
