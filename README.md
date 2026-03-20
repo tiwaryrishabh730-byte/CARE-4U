@@ -24,5 +24,10 @@ API Integration: Implemented secure environment variable management to integrate
 
 User Experience (UX): Focused on reducing "medical anxiety" by designing an interface that feels supportive and accessible.
 
+## 👥 The Team
+* **Kaivalya Duraphe** - Team Lead & Logic Development
+* **Rishabh Tiwary** - API Integration & System Architecture
+* **Illa Yaswanth Satya Mani** - UI/UX Design & Frontend Development
+  
 View your app : https://care-4-u-one.vercel.app/
 
