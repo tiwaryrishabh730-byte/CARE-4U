@@ -2,11 +2,11 @@
 
 CARE-4U is an AI-powered healthcare application developed for the Cyber Cypher 5.0 organized by Taqneeq 18.0 at NMIMS MPSTME. The project successfully qualified the elementary round, demonstrating a functional prototype designed to bridge the gap between clinical data and emotional support.
 
-**Project Overview**
+## Project Overview
 
 Traditional health trackers often feel clinical and detached. CARE-4U was built to provide a more human-centric experience. It combines real-time vital monitoring with a generative AI companion to assist users with both their physical health and their mental well-being.
 
-**Key Features**
+## Key Features
 
 **Empathetic AI Companion**: Powered by the Google Gemini API to provide personalized health advice and mood-aware interaction.
 
@@ -16,7 +16,7 @@ Traditional health trackers often feel clinical and detached. CARE-4U was built 
 
 **Gamified Wellness**: Visual feedback systems that encourage healthy habits through an interactive "Plant Vitality" UI.
 
-**Lessons Learned**
+## Lessons Learned
 
 **Rapid Prototyping**: Successfully built a functional Minimum Viable Product (MVP) within a 24-hour hackathon environment.
 
