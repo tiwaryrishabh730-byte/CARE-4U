@@ -1,0 +1,8 @@
+{
+  "name": "CARE4U - Healthcare Companion",
+  "description": "A high-fidelity healthcare companion app featuring emotional design, a digital plant companion, and an AI health assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
